@@ -1,0 +1,14 @@
+#divFloat1{
+    border: 2px solid red;
+}
+
+
+/*#divFloat: before{
+    
+}*/
+
+#divFloat: after,
+#divFloat: before{
+    display:table;
+    content:"";
+}
